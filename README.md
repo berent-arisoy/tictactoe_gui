@@ -19,6 +19,7 @@ This project is a simple yet engaging Tic Tac Toe game with a clean, responsive 
    ```bash
    git clone https://github.com/berent-arisoy/tictactoe_gui.git
    cd tictactoe_gui
+   cd tictactoe
    ```
 
 2. Install dependencies:
